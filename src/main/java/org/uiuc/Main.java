@@ -12,6 +12,7 @@ public class Main {
     int d = 40;
     System.out.println("Sum = " + add(c, d));
     System.out.println("Difference = " + subtract(c, d));
+    System.out.println("Multiplication = " + multiply(c, d));
   }
 
   public static int add(int x, int y) {

@@ -8,6 +8,9 @@ public class Main {
     System.out.println("Difference = " + subtract(a, b));
     System.out.println("Multiplication = " + multiply(a, b));
     System.out.println("Division = " + divide(a, b));
+    int c = 30;
+    int d = 40;
+    System.out.println("Sum = " + add(c, d));
   }
 
   public static int add(int x, int y) {

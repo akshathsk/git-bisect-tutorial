@@ -17,6 +17,7 @@ public class Main {
     int e = 30;
     int f = 40;
     System.out.println("Sum = " + add(e, f));
+    System.out.println("Difference = " + subtract(e, f));
   }
 
   public static int add(int x, int y) {
